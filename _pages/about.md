@@ -15,7 +15,7 @@ José Miguel Hernández-Lobato.
 
 # Publications
 Mahmood, O., Mansimov, E., Bonneau, R., Cho, K.
-Masked Graph Modeling for Molecule Generation. \[ [Paper](/files/Graph_Generation.pdf) | [Code](https://github.com/nyu-dl/dl4chem-mgm) \]
+Masked Graph Modeling for Molecule Generation. \[ [Paper](https://chemrxiv.org/articles/preprint/Masked_Graph_Modeling_for_Molecule_Generation/13143167) | [Code](https://github.com/nyu-dl/dl4chem-mgm) \]
 
 Tjaernberg, A., Mahmood, O., Jackson, C.A., et al.
 Optimal tuning of weighted kNN- and diffusion-based methods for denoising single cell genomics data.
