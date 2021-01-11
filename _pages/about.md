@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student at the NYU Center for Data Science, advised by Kyunghyun Cho and Richard Bonneau.
-I am interested in the application of machine learning to problems in computational chemistry and biology,
+I am interested in the application of machine learning to small molecules and biological datasets,
 with a focus on graph neural networks. Prior to joining NYU, I completed a Masters degree at the University of Cambridge under the supervision of
 José Miguel Hernández-Lobato.
 
@@ -29,3 +29,7 @@ Molecular Geometry Prediction using a Deep Generative Graph Neural  Network.
 
 Mahmood, O.; Hernández-Lobato, J. M. A COLD Approach to Generating Optimal Samples.
 <i>CoRR</i>, 2019, abs/1905.09885. \[ [Paper](https://arxiv.org/abs/1905.09885) \]
+
+# Miscellaneous
+
+[Slides](https://docs.google.com/presentation/d/1KkFjqjOZ-ngOVwxGn3rNc7VF74PseJaDOEfHHgUvavk/edit?usp=sharing) providing a brief survey of machine learning for chemical reaction prediction
