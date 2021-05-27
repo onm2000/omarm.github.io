@@ -14,13 +14,10 @@ with a focus on graph neural networks. Prior to joining NYU, I completed a Maste
 José Miguel Hernández-Lobato.
 
 # Publications
-Mahmood, O., Mansimov, E., Bonneau, R., Cho, K.
-Masked Graph Modeling for Molecule Generation. \[ [Paper](https://chemrxiv.org/articles/preprint/Masked_Graph_Modeling_for_Molecule_Generation/13143167) | [Code](https://github.com/nyu-dl/dl4chem-mgm) \]
+Mahmood, O., Mansimov, E., Bonneau, R., Cho, K. Masked graph modeling for molecule generation. Nat Commun 12, 3156 (2021). https://doi.org/10.1038/s41467-021-23415-2 \[ [Paper](https://www.nature.com/articles/s41467-021-23415-2) | [Code](https://github.com/nyu-dl/dl4chem-mgm) \]
 
-Tjaernberg, A., Mahmood, O., Jackson, C.A., et al.
-Optimal tuning of weighted kNN- and diffusion-based methods for denoising single cell genomics data.
-<i>bioRxiv</i>, 2020. doi: 1101/2020.02.28.970202.
-\[ [Paper](https://www.biorxiv.org/content/10.1101/2020.02.28.970202v1) | [Code](https://gitlab.com/Xparx/dewakss/-/tree/Tjarnberg2020branch) \]
+Tjärnberg A, Mahmood O, Jackson CA, Saldi GA, Cho K, et al. (2021) Optimal tuning of weighted kNN- and diffusion-based methods for denoising single cell genomics data. PLOS Computational Biology 17(1): e1008569. https://doi.org/10.1371/journal.pcbi.1008569
+\[ [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008569) | [Code](https://gitlab.com/Xparx/dewakss/-/tree/Tjarnberg2020branch) \]
 
 Mansimov, E., Mahmood, O., Kang, S., and Cho, K.
 Molecular Geometry Prediction using a Deep Generative Graph Neural  Network.
