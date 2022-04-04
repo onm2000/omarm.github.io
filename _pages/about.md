@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a PhD student at the NYU Center for Data Science, advised by Kyunghyun Cho and Richard Bonneau.
-I am interested in the application of machine learning to small molecules and biological datasets,
-with a focus on graph neural networks. Prior to joining NYU, I completed a Masters degree at the University of Cambridge under the supervision of
+My work focusses on the application of generative modelling and self-supervised learning to molecular graphs and gene regulatory networks.
+Prior to joining NYU, I completed a Masters degree at the University of Cambridge under the supervision of
 José Miguel Hernández-Lobato.
 
 # Publications
